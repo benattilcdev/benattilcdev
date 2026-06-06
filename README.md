@@ -2,7 +2,7 @@
 
 `Desenvolvedor Full Stack`
 
-Me chamo Lucas Caffe Benatti, tenho 40 anos e sou natural de Lages - Santa Catarina. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIARA. Sou apaixonado por tecnologia e compartilho meu conhecimento, dando aulas de programação para crianças.
+Tenho 40 anos e sou formado como desenvolvedor Full Stack, atuando atualmente como desenvolvedor Frontend. Trabalho para uma empresa multinacional localizada em Araraquara – SP e possuo mais de 5 anos de experiência no mercado de trabalho. Sou focado na evolução constante, em boas práticas de desenvolvimento e na criação de soluções eficientes e bem estruturadas.
 
 <p align="left">
     <a href="https://github.com/benattilcdev?tab=repositories&sort=stargazers">
