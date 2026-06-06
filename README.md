@@ -2,7 +2,7 @@
 
 `Desenvolvedor Full Stack`
 
-Tenho 40 anos e sou formado como desenvolvedor Full Stack, atuando atualmente como desenvolvedor Frontend. Trabalho para uma empresa multinacional localizada em Araraquara – SP e possuo mais de 5 anos de experiência no mercado de trabalho. Sou focado na evolução constante, em boas práticas de desenvolvimento e na criação de soluções eficientes e bem estruturadas.
+Tenho 40 anos e sou formado como desenvolvedor Full Stack, atuando como desenvolvedor Frontend. Trabalho para uma empresa multinacional localizada em Araraquara – SP e possuo mais de 5 anos de experiência no mercado de trabalho. Sou focado na evolução constante, em boas práticas de desenvolvimento e na criação de soluções eficientes e bem estruturadas.
 
 <p align="left">
     <a href="https://github.com/benattilcdev?tab=repositories&sort=stargazers">
